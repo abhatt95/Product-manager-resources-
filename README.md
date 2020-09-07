@@ -1,2 +1,5 @@
 # Product-manager-resources-
-Resources to understand more about role of (associate) product manager (PM) and journey to first PM offer. 
+
+Product manager interview questions for Google, Facebook, Amazon etc. 
+
+[iGotAnOffer](https://igotanoffer.com/blogs/tech/tagged/popular)
