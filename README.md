@@ -10,6 +10,7 @@
 2. Product lessons by Lind Zheng - [productlessons.substack.com](https://productlessons.substack.com/)
 3. Tips and tricks for PM interview - [tryexponent](https://blog.tryexponent.com/)
 4. Resume checklit for PM - [pm resume checklist](https://blog.tryexponent.com/pm-resume-checklist/)
+5. Perfect PM Interview Practice — Ryan Hill, Founder of APMList - [medium article](https://medium.com/exponent/perfect-pm-interview-practice-ryan-hill-founder-of-apmlist-595d2a3f697a)
 
 ## Other guides -
 [product management guide](https://github.com/vipl0ve/product-management-guide)
