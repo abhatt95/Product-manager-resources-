@@ -1,4 +1,4 @@
-# Product-manager-resources-
+# Product manager Interview Resources
 
 Product manager interview questions for Google, Facebook, Amazon etc. 
 
