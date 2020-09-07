@@ -7,3 +7,6 @@
 
 ## Blog -
 Product manager interview questions for Google, Facebook, Amazon etc - [iGotAnOffer](https://igotanoffer.com/blogs/tech/tagged/popular)
+
+## Other guides -
+[product management guide](https://github.com/vipl0ve/product-management-guide)
