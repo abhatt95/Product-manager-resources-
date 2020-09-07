@@ -8,6 +8,8 @@
 ## Blogs -
 1. Product manager interview questions for Google, Facebook, Amazon etc - [iGotAnOffer](https://igotanoffer.com/blogs/tech/tagged/popular)
 2. Product lessons by Lind Zheng - [productlessons.substack.com](https://productlessons.substack.com/)
+3. Tips and tricks for PM interview - [tryexponent](https://blog.tryexponent.com/)
+4. Resume checklit for PM - [pm resume checklist](https://blog.tryexponent.com/pm-resume-checklist/)
 
 ## Other guides -
 [product management guide](https://github.com/vipl0ve/product-management-guide)
