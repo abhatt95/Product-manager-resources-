@@ -13,5 +13,8 @@
 5. Perfect PM Interview Practice — Ryan Hill, Founder of APMList - [medium article](https://medium.com/exponent/perfect-pm-interview-practice-ryan-hill-founder-of-apmlist-595d2a3f697a)
 6. Product Manager Resources [productmanagerhq](https://productmanagerhq.com/)
     - Interview prep, skills, resume examples
+    
+## List of companies -
+1. https://apmlist.com/
 ## Other guides -
 [product management guide](https://github.com/vipl0ve/product-management-guide)
